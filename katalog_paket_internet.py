@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib as plt
+
 
 # ===== Konfigurasi Halaman =====
 st.set_page_config(
